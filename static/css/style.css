@@ -1,0 +1,28 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+#map,
+body,
+html {
+  height: 89%;
+}
+
+/* legend */
+.legend {
+  line-height: 18px;
+  color: #000;
+  background-color: white;
+  padding: 18px;
+  opacity: .8;
+}
+
+/* legend color squares */
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 1;
+}
